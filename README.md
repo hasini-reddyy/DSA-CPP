@@ -1,88 +1,73 @@
-# 🚀 DSA Daily Grind
+# 💻 DSA in C++
 
-> *"Small improvements every day lead to extraordinary results."*
+> Consistent practice. Better problem solving. One commit at a time.
 
-Welcome to my Data Structures & Algorithms repository.
+Welcome to my **DSA-C++** repository!
 
-This repository is a collection of my daily coding practice and problem-solving journey. Every solution here represents consistency, learning, and the continuous effort to improve my problem-solving skills.
-
----
-
-## 📌 About
-
-- 💻 Language: **C++**
-- 🧠 Focus: Data Structures & Algorithms
-- 📈 Goal: Improve problem-solving skills through daily practice
-- 🎯 Target: Software Engineering roles at top product-based companies
+This repository contains my solutions to Data Structures and Algorithms problems solved in **C++** as part of my daily coding practice. It documents my journey toward becoming a better software engineer through consistency and continuous learning.
 
 ---
 
-## 📂 Repository Structure
+## 📚 What's Inside
 
-```
-├── Arrays
-├── Strings
-├── Linked List
-├── Stack
-├── Queue
-├── Trees
-├── Binary Search Tree
-├── Graphs
-├── Dynamic Programming
-├── Greedy
-├── Backtracking
-├── Recursion
-├── Sliding Window
-├── Two Pointers
-└── ...
-```
-
----
-
-## 🎯 What you'll find here
-
-- LeetCode Solutions
-- Coding Platform Problems
-- College Coding Questions
-- Interview Preparation
-- Algorithm Implementations
-- Clean and Beginner-Friendly Code
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Binary Search Trees
+- Graphs
+- Heaps
+- Hashing
+- Recursion
+- Backtracking
+- Greedy Algorithms
+- Dynamic Programming
+- Sliding Window
+- Two Pointers
+- Binary Search
+- Bit Manipulation
+- And many more...
 
 ---
 
-## 💡 My Philosophy
+## 🎯 Goals
 
-> Consistency beats intensity.
-
-The objective of this repository isn't just solving problems—it's becoming a better problem solver every single day.
-
----
-
-## 🛠️ Languages & Tools
-
-- C++
-- Git
-- GitHub
-- VS Code
+- Strengthen problem-solving skills
+- Master Data Structures & Algorithms
+- Write clean and efficient C++ code
+- Prepare for coding interviews
+- Maintain coding consistency
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Tech Stack
 
-- Advanced Data Structures
-- Algorithms
-- Competitive Programming
-- System Design (later)
-- AI & Automation
+- **Language:** C++
+- **Version Control:** Git
+- **Platform:** GitHub
 
 ---
 
-## ⭐ Note
+## 📌 Repository Highlights
 
-This repository is updated regularly as I continue my DSA journey.
+✔ Well-organized topic-wise solutions
 
-If you're on a similar journey, feel free to explore the solutions and learn along with me.
+✔ Beginner-friendly implementations
+
+✔ Daily coding practice
+
+✔ Continuous learning and improvement
 
 ---
 
-# Happy Coding! 🚀
+## 🚀 Philosophy
+
+> "Success is the sum of small efforts, repeated day in and day out."
+
+Every commit represents one step forward.
+
+---
+
+⭐ Thanks for visiting this repository!
